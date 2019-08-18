@@ -15,5 +15,5 @@ public class j1 {
             System.out.println(new String(buf,0,len));
         }
         System.out.println(f.exists());
-    }
+        fis.close();    }
 }

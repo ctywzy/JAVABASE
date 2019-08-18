@@ -12,5 +12,6 @@ public class k5 {
         PrintWriter out = new PrintWriter("b.txt");
         out.write(48);
         out.close();
+        out.close();
     }
 }
